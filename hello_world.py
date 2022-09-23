@@ -1,9 +1,11 @@
-def print_hello():
-    print("Hello World!!")
+def print_chicken():
+    print("Chickennuget!!!!")
 
-def print_KIT():
-    print("kumoh National ....")
+def print_MIT():
+    print("Mesachusez National ....")
+
+print("chicken")
 
 if __name__ == '__main__':
-    print_KIT()
-    print_hello()
+    print_MIT()
+    print_chicken()
